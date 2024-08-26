@@ -12,7 +12,7 @@
 
 ## Terraform
 
-Defina as variáveis do `terraform` com base [nestes arquivos de exemplo](/environment/dev/).  
+Defina as variáveis do `terraform` com base [nestes arquivos de exemplo](/environment/dev/terraform.tfvars).  
 Exemplo de utilização do `terraform` referenciando os arquivos `.tfvars`:
 
 ```sh
